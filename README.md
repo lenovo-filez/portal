@@ -76,7 +76,7 @@ import wrap from '@filez/portal'
  * @param {Object} options.vueInstanceProps，用于自定义vue实例对象属性
  * @returns Promise
  */
-export default (data, options) => {
+export default (data, options={}) => {
   return wrap(temp, data, { unmountDelay: 0, vueInstanceProps:{}, ...options })
 }
 ```
