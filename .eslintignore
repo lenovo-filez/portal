@@ -1,0 +1,6 @@
+dist/*
+build/*
+
+!.prettierrc.js
+!.stylelintrc.js
+!.eslintrc.js

@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [100],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.codeActionsOnSave.mode": "all",
+  "html.format.enable": false,
+  "json.format.enable": false,
+  "prettier.printWidth": 100,
+  "vetur.format.enable": false
+}
